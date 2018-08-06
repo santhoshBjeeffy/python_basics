@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "matplotlib123", "matplotlib123\matplotlib123.pyproj", "{49B8B054-3B61-4CB0-9BEC-B529769B5C62}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{49B8B054-3B61-4CB0-9BEC-B529769B5C62}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49B8B054-3B61-4CB0-9BEC-B529769B5C62}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {70A37CC3-F4B2-457C-9B35-64C75E8A7F3A}
+	EndGlobalSection
+EndGlobal
